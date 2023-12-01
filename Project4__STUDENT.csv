@@ -1,0 +1,13 @@
+StudentID,StudentFName,StudentMName,StudentLName,Email,PermanentAddress,GraduationDate,AcademicStanding,FinancialStanding,CumulativeGPA
+1,Olivia,Grace,Nguyen ,Olivia.Nguyen@university.edu,"123 Maple Street, Raleigh, NC 27601",20230504,Good,Good,3.5
+2,Ethan,Alexander,Rodriguez,Ethan.Rodriguez@university.edu,"456 Oak Avenue, Charlotte, NC 28202",20230504,Probation,Good,2
+3,Ava,Rose,Patel ,Ava.Patel@university.edu,"789 Pine Drive, Durham, NC 27705",20240505,Good,Probation,3
+4,Liam,James,Andersen ,Liam.Andersen@university.edu,"101 Cedar Lane, Greensboro, NC 27401",20231217,Good,Good,3.7
+5,Sophia,Marie,Dubois ,Sophia.Dubois@university.edu,"202 Oakwood Court, Winston-Salem, NC 27101",20240505,Probation,Good,2.1
+6,Noah,Benjamin,Kim ,Noah.Kim@university.edu,"303 Elm Circle, Asheville, NC 28801",20241218,Good,Good,4
+7,Isabella,Elizabeth,Ivanov ,Isabella.Ivanov@university.edu,"404 Birch Road, Fayetteville, NC 28301",20250506,Good,Probation,3.2
+8,Jackson,Christopher,Almeida ,Jackson.Almeida@university.edu,"505 Redwood Lane, Wilmington, NC 28401",20231217,Good,Good,2.8
+9,Mia,Anne,González ,Mia.Gonzalez@university.edu,"606 Cedar Avenue, Chapel Hill, NC 27514",20251218,Probation,Good,2.4
+10,Aiden,William,Santos ,Aiden.Santos@university.edu,"707 Magnolia Street, Greenville, NC 27834",20251218,Good,Good,4
+11,Emma,Olivia,Nakamura ,Emma.Nakamura@university.edu,"808 Spruce Court, High Point, NC 27260",20250506,Good,Probation,3.3
+12,Lucas,Michael,O'Connor ,Lucas.OConnor@university.edu,"909 Sycamore Drive, Cary, NC 27511",20241218,Probation,Probation,1.7

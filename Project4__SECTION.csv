@@ -1,0 +1,13 @@
+StudentID,CourseName,CourseSection,Semester
+1,Data Analytics II,300,Fall
+2,Marketing II,280,Fall
+3,Computer Programming II,200,Fall
+4,Supply Chain II,320,Fall
+5,Financial Management II,250,Fall
+6,Network Security II,215,Fall
+7,Financial Management III,335,Spring
+8,Marketing III,425,Spring
+9,Data Analytics III,130,Spring
+10,Microsoft Excel Fundamentals,155,Fall
+11,Network Security III,180,Spring
+12,Computer Programming III,220,Spring
